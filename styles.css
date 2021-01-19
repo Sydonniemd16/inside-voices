@@ -1,0 +1,11 @@
+body {
+  background-color: #d3e6e4;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+  color: grey;
+}
+header {
+  display: flex;
+  flex-direction: column;
+}
